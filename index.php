@@ -90,7 +90,7 @@
   <div class="navbar">
     <a class="active" href="#"><i class="fa fa-fw fa-home"></i> Home</a>
     <a href="#"><i class="fa fa-fw fa-search"></i> Search</a>
-    <a href="login.php"><i class="fa fa-fw fa-user"></i>Login</a>
+    <i class="fa fa-fw fa-user"><a href="login.php">Login</a></i>
   </div>
   <p class="fw-bold text-warning">
     <marquee>Satta King, Bollywood, Satta King 786, Delhi Satta King, Satta King Fast, Satta King Disawar, Satta King
